@@ -2,7 +2,7 @@
 
 ### &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying ICT at Higher school of communication of Tunis.\
 ⚙️ &nbsp;I started as a Game Developer using Unity3D and Blender
 🌱 &nbsp;Now, I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software developement, and Embedded Systems.\
