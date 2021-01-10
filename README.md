@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hi! I'm Ghazi -->
+## 👋 &nbsp;Hi! I'm Ghazi
 
 ### &nbsp;About Me
 
@@ -11,16 +11,16 @@
 
 ### &nbsp;Languages I Use
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)
-![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=dart)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?&logo=bootstrap)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=bootstrap)
-![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=HTML5)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=html)
-![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=CSS3)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=css)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)]
+[![C](https://img.shields.io/badge/-C-000?&logo=C)]
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java)]
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)]
+[![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)]
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]
+[![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=dart)]
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?&logo=bootstrap)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=bootstrap)]
+[![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=HTML5)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=html)]
+[![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=CSS3)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=css)]
 
 ### &nbsp;Technologies
 
