@@ -41,8 +41,7 @@
 
 ### &nbsp;Reach Me Via
 
-<a href="https://www.linkedin.com/in/ghazi-tounsi/"><img src="https://img.shields.io/badge/-Ghazi%20Tounsi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gtounsi134@gmail.com"><img src="https://img.shields.io/badge/-gtounsi134@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/ghazixx"><img src="https://img.shields.io/badge/-@ghazixx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="@tGhazixx"><img src="https://img.shields.io/badge/-@tGhazixx-08A0E9?style=flat&logo=twitter&logoColor=white"/></a>
-</p>
+<a href="mailto:gtounsi134@gmail.com"><img src="https://img.shields.io/badge/-gtounsi134@gmail.com-000?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/ghazixx"><img src="https://img.shields.io/badge/-@ghazixx-000?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ghazi-tounsi/"><img src="https://img.shields.io/badge/-Ghazi%20Tounsi-000?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="@tGhazixx"><img src="https://img.shields.io/badge/-@tGhazixx-000?style=flat&logo=twitter&logoColor=white"/></a>
