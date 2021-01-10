@@ -11,16 +11,16 @@
 
 ### &nbsp;Languages I Use
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?&logo=bootstrap)
-![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=CSS3)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)
+![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=dart)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?&logo=bootstrap)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=bootstrap)
+![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=HTML5)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=html)
+![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=CSS3)(https://github.com/GhaziXX?tab=repositories&q=&type=&language=css)
 
 ### &nbsp;Technologies
 
@@ -41,7 +41,6 @@
 
 ### &nbsp;Reach Me Via
 
-<p align="center">
 <a href="https://www.linkedin.com/in/ghazi-tounsi/"><img src="https://img.shields.io/badge/-Ghazi%20Tounsi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gtounsi134@gmail.com"><img src="https://img.shields.io/badge/-gtounsi134@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/ghazixx"><img src="https://img.shields.io/badge/-@ghazixx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
