@@ -25,7 +25,7 @@
 ### &nbsp;Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Flutter](https://img.shields.io/badge/-Linux-000?&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### &nbsp;Softwares
