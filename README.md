@@ -11,29 +11,29 @@
 
 ### &nbsp;Languages I Use
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)]
-[![C](https://img.shields.io/badge/-C-000?&logo=C)]
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java)]
-[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)]
-[![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)]
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)
+[![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-[![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=dart)]
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?&logo=bootstrap)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=bootstrap)]
-[![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=HTML5)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=html)]
-[![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=CSS3)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=css)]
+[![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=dart)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=bootstrap)
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=html)
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=css)
 
 ### &nbsp;Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Flutter](https://img.shields.io/badge/-Linux-000?&logo=Flutter)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### &nbsp;Softwares
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?&logo=adobe-illustrator)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?&logo=adobe-photoshop)
-![After Effects](https://img.shields.io/badge/-Photoshop-05122A?&logo=adobe-after-effects)
-![Blender](https://img.shields.io/badge/-Photoshop-05122A?&logo=blender)
-![Unity](https://img.shields.io/badge/-Photoshop-05122A?&logo=unity)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
+![After Effects](https://img.shields.io/badge/-After%20Effects-000?&logo=adobe-after-effects)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 
 ### &nbsp;Github Analytics
 
@@ -44,5 +44,5 @@
 <a href="https://www.linkedin.com/in/ghazi-tounsi/"><img src="https://img.shields.io/badge/-Ghazi%20Tounsi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gtounsi134@gmail.com"><img src="https://img.shields.io/badge/-gtounsi134@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/ghazixx"><img src="https://img.shields.io/badge/-@ghazixx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="@tGhazixx"><img src="https://img.shields.io/badge/-@tGhazixx-BD081C?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="@tGhazixx"><img src="https://img.shields.io/badge/-@tGhazixx-08A0E9?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
