@@ -18,9 +18,6 @@
 [![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 [![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=dart)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=bootstrap)
-[![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=html)
-[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=css)
 
 ### &nbsp;Technologies
 
