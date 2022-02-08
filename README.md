@@ -12,7 +12,6 @@
 ### &nbsp;Languages I Use
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)
 [![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)
