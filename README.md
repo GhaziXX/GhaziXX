@@ -3,33 +3,19 @@
 ### &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying ICT at Higher school of communication of Tunis.\
 ⚙️ &nbsp;I started as a Game Developer using Unity3D and Blender
-🌱 &nbsp;Now, I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software developement, and Embedded Systems.\
-😍 &nbsp;In my free time, I pursue 3D modeling, Video Editing and Blog Reading as hobbies/side hustles.\
-📄 I'm open to any feedbacks, suggestions and offers!
 
 ### &nbsp;Languages I Use
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c++)
 [![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=c#)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-[![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)](https://github.com/GhaziXX?tab=repositories&q=&type=&language=dart)
 
 ### &nbsp;Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-### &nbsp;Softwares
-![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
-![After Effects](https://img.shields.io/badge/-After%20Effects-000?&logo=adobe-after-effects)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 
 ### &nbsp;Github Analytics
 
